@@ -79,7 +79,11 @@ input, select, textarea {
 		justify-content: center;
 	}
 	#socials  {
+		margin-right: 20px;
 		color: rgb(110, 110, 110);
+	}
+	#socials:hover{
+		color: rgb(65, 109, 220)
 	}
 	.row {
 		display: flex;
@@ -1833,7 +1837,6 @@ input, select, textarea {
 				height: 2.25em;
 				line-height: 2.25em;
 				left: 50%;
-				opacity: 0;
 				-moz-transition: opacity .25s ease-in-out;
 				-webkit-transition: opacity .25s ease-in-out;
 				-ms-transition: opacity .25s ease-in-out;
