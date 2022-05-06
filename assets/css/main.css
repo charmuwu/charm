@@ -233,6 +233,7 @@ input, select, textarea {
 		font-size: 0.875rem;
 	}
 	.projectTitle{
+		text-decoration: underline;
 		font-size: 1.375rem;
 	}
 
